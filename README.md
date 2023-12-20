@@ -9,7 +9,7 @@ Milestone 2: Datasets and Models' collection and deployment.(completed)\
 Milestone 3: Implement vision-language guidance mechanisms into the model. Check the initial results.(completed)\
 Milestone 4: Test the model's ability to generate high-fidelity images compared to original models. Evaluate the model against standard benchmarks and metrics.(completed)\
 Milestone 5: (Optional) Create a demo to show real-time results.(N/A)\
-Milestone 6: Write a report and create the repository.(completed)\
+Milestone 6: Write a report and create the repository.(completed)
 
 ## Repo Structure
 Repo contains two notebooks and a .py training script that need to be manually added into to some place under the root, and change the clip-embedded fine-tune code's script address accordingly.

@@ -7,15 +7,15 @@ Milestones\
 Milestone 1: Literature Review, Feasibility Study, and collecting benchmarks.(completed)\
 Milestone 2: Datasets and Models' collection and deployment.(completed)\
 Milestone 3: Implement vision-language guidance mechanisms into the model. Check the initial results.(completed)\
-Milestone 4: Test the model's ability to generate high-fidelity images compared to original models. Evaluate the model against standard benchmarks and metrics.(completed)
-Milestone 5: (Optional) Create a demo to show real-time results.(N/A)
-Milestone 6: Write a report and create the repository.(completed)
+Milestone 4: Test the model's ability to generate high-fidelity images compared to original models. Evaluate the model against standard benchmarks and metrics.(completed)\
+Milestone 5: (Optional) Create a demo to show real-time results.(N/A)\
+Milestone 6: Write a report and create the repository.(completed)\
 
-Repo contains two notebooks and a .py training script that need to be manually added into to some place under the root, and change the clip-embedded fine-tune code's script address accordingly.
+Repo contains two notebooks and a .py training script that need to be manually added into to some place under the root, and change the clip-embedded fine-tune code's script address accordingly.\
 
-No extra command is needed. Just run notebooks.
+No extra command is needed. Just run notebooks.\
 
-Results:
+Results:\
 Iterative Refinement
 [23.63835973739624, 24.020499801635744, 24.128654670715333] Average ClipScore of first 100 prompts from parti-prompt dataset with 0,3,6 refinement steps respectively
 
